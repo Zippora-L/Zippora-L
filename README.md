@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently studying to become a fulltime Frontend Web Developer
-🌱 I’m currently learning React
-📫 How to reach me: zlatzko@googlemail.com
+- 🔭 I’m currently studying to become a fulltime Frontend Web Developer
+- 🌱 I’m currently learning React
+- 📫 How to reach me: zlatzko@googlemail.com
 
 <!--
 **Zippora-L/Zippora-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
