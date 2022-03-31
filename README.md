@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-Passionate Frontend Developer from Germany 
+I'm a passionate Frontend Developer from Germany 
 
-- 🔭 I’m currently working on https://route-list.herokuapp.com/
+- 🔭 I’m currently working on [routelist] (https://route-list.herokuapp.com/)
 - 🌱 I’m currently learning React
 - 📫 How to reach me: zlatzko@googlemail.com
 
-Connect with me 
+## Connect with me 
 
-Languages and Tools
+## Languages and Tools
 
 
 
