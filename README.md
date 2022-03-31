@@ -1,8 +1,16 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying to become a fulltime Frontend Web Developer
+Passionate Frontend Developer from Germany 
+
+- 🔭 I’m currently working on https://route-list.herokuapp.com/
 - 🌱 I’m currently learning React
 - 📫 How to reach me: zlatzko@googlemail.com
+
+Connect with me 
+
+Languages and Tools
+
+
 
 <!--
 **Zippora-L/Zippora-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
