@@ -4,7 +4,6 @@ I'm a passionate Fullstack Developer from Germany
 
 - 🔭 I’m currently working on [routelist](https://route-list.herokuapp.com/)
 - 🌱 I’m currently learning **React**
-- 📫 How to reach me: zlatzko@googlemail.com
 
 
 <h3 align="left">Connect with me:</h3>
