@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate Fullstack Developer from Germany 
+I'm a passionate Frontend Developer with Fullstack skills 
 
 - 🔭 I’m currently working on [routelist](https://route-list.herokuapp.com/)
 - 🌱 I’m currently learning **Angular**
