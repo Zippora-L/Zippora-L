@@ -3,7 +3,7 @@
 I'm a passionate Frontend Developer with Fullstack skills 
 
 - 🔭 I’m currently working on [routelist](https://route-list.herokuapp.com/)
-- 🌱 At the moment I'm learning **Angular**
+- 🌱 At the moment I'm learning **React**
 
 
 <h3 align="left">Connect with me:</h3>
