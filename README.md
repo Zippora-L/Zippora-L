@@ -4,6 +4,7 @@ I'm a passionate Frontend Developer with Fullstack skills
 
 - 🔭 I’m currently leveling up my Frontend skills with Frontend Mentor
 - 🌱 At the moment I'm working with **React**
+- 🎨 Take a look at my portfolio <a href="https://zipporasportfolio.notion.site/Zippora-Latzko-Web-Dev-Portfolio-1fc3da83dfa3445a8d76332aa9a11fc4">here</a>
 
 
 <h3 align="left">Connect with me:</h3>
